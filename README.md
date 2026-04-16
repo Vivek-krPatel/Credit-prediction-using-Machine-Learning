@@ -4,11 +4,11 @@
 This project leverages machine learning algorithms to predict credit risk and approval status. It provides a comprehensive solution combining data analysis, model training, and a full-stack web application for credit prediction.
 
 ## Technology Stack
-- **Jupyter Notebook** (54.8%): Data analysis and model experimentation
-- **JavaScript** (28.1%): Frontend interface
-- **Java** (13.5%): Backend services
-- **Python** (1.2%): Machine learning scripts
-- **HTML/CSS/Other** (2.6%): Web technologies
+- **Jupyter Notebook** : Data analysis and model experimentation
+- **JavaScript** : Frontend interface
+- **Java** : Backend services
+- **Python** : Machine learning scripts
+- **HTML/CSS/Other** : Web technologies
 
 ## System Architecture
 
@@ -136,6 +136,3 @@ This project is open source and available under the MIT License.
 
 ## Author
 **Vivek Patel** - [GitHub Profile](https://github.com/Vivek-krPatel)
-
-## Contact
-For questions or support, please reach out through GitHub issues or contact the project maintainer.
